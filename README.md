@@ -12,7 +12,8 @@
 <img width="1920" height="1009" alt="image" src="https://github.com/user-attachments/assets/0dd29e6d-5ed7-46f8-b664-e61308708737" />
 <img width="1920" height="1009" alt="image" src="https://github.com/user-attachments/assets/bb05abf3-2b17-4cbf-953a-ceecd2876409" />
 <img width="1920" height="1009" alt="image" src="https://github.com/user-attachments/assets/39e9d582-3492-4cfa-90f6-32b02aaea743" />
-![Uploading image.png…]()
+<img width="1920" height="1009" alt="image" src="https://github.com/user-attachments/assets/a3bb693e-f9d9-4d7b-b25e-b4bac13f711f" />
+
 
 - **EA 智能识别**：导入 EA 后自动识别参数与策略结构，无需手工整理
 - **参数优化**：内置 GA（遗传算法）/ PSO（粒子群）双算法，支持本地与云端双引擎
