@@ -1,25 +1,22 @@
 <div align="center">
 
-# MT Optimizer
+# Jack MT5 Optimizer
 
-**MT5 策略参数优化工具** —— 将 EA 参数优化做成标准化、可复用的闭环工作流。
+**MT5 策略参数优化工具** —— 面向专业交付的 MT5 优化工作台，提供结构化任务执行与更流畅的操作体验。
 
 [![立即下载 v1.0.19](https://img.shields.io/badge/%E7%AB%8B%E5%8D%B3%E4%B8%8B%E8%BD%BD-v1.0.19-2ea44f?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/MT-SEA/MT-Optimizer/releases/download/v1.0.19/MT5-Optimizer-Setup-1.0.19-x64.msi)
+
+[中文](README.md) · [English](README.en.md)
 
 </div>
 
 ## 功能说明
-<img width="1920" height="1009" alt="image" src="https://github.com/user-attachments/assets/0dd29e6d-5ed7-46f8-b664-e61308708737" />
-<img width="1920" height="1009" alt="image" src="https://github.com/user-attachments/assets/bb05abf3-2b17-4cbf-953a-ceecd2876409" />
-<img width="1920" height="1009" alt="image" src="https://github.com/user-attachments/assets/39e9d582-3492-4cfa-90f6-32b02aaea743" />
-<img width="1920" height="1009" alt="image" src="https://github.com/user-attachments/assets/a3bb693e-f9d9-4d7b-b25e-b4bac13f711f" />
-
 
 - **EA 智能识别**：导入 EA 后自动识别参数与策略结构，无需手工整理
 - **参数优化**：内置 GA（遗传算法）/ PSO（粒子群）双算法，支持本地与云端双引擎
 - **任务队列**：优化任务统一排队，阶段进度实时可见，支持暂停 / 恢复
 - **回测复盘**：回测结果自动汇总，支持筛选、排序与参数对比导出
-- **AI 增强**：基于 最新MT 模型的深度参数分析与策略复刻
+- **AI 增强**：基于 DeepSeek 的深度参数分析与策略复刻
 - **多平台兼容**：同时支持 MT4 / MT5，覆盖 BTCUSD、USOIL 等主流交易品种
 
 ## 下载安装
@@ -38,6 +35,4 @@
 
 ## 联系方式
 
-- 微信：**mtpsea**
-- <img width="498" height="480" alt="image" src="https://github.com/user-attachments/assets/3f482934-93af-430f-b0db-de1bd0d9e47b" />
-
+- 微信：**exnesshk**
