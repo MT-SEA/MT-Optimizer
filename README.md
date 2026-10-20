@@ -4,7 +4,7 @@
 
 **MT5 策略参数优化工具** —— 面向专业交付的 MT5 优化工作台，提供结构化任务执行与更流畅的操作体验。
 
-[![立即下载 v1.0.19](https://img.shields.io/badge/%E7%AB%8B%E5%8D%B3%E4%B8%8B%E8%BD%BD-v1.0.19-2ea44f?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/MT-SEA/MT-Optimizer/releases/download/v1.0.19/MT5-Optimizer-Setup-1.0.19-x64.msi)
+[![立即下载 v1.0.20](https://img.shields.io/badge/%E7%AB%8B%E5%8D%B3%E4%B8%8B%E8%BD%BD-v1.0.20-2ea44f?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/MT-SEA/MT-Optimizer/releases/download/v1.0.20/MT5-Optimizer-Setup-1.0.20-x64.msi)
 
 [中文](README.md) · [English](README.en.md)
 
