@@ -4,7 +4,7 @@
 
 **A refined MT5 optimization workspace** built for professional delivery, structured task execution, and a smoother operational experience across client-facing trading workflows.
 
-[![Download v1.0.19](https://img.shields.io/badge/Download-v1.0.19-2ea44f?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/MT-SEA/MT-Optimizer/releases/download/v1.0.19/MT5-Optimizer-Setup-1.0.19-x64.msi)
+[![Download v1.0.20](https://img.shields.io/badge/Download-v1.0.20-2ea44f?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/MT-SEA/MT-Optimizer/releases/download/v1.0.20/MT5-Optimizer-Setup-1.0.20-x64.msi)
 
 [中文](README.md) · [English](README.en.md)
 
