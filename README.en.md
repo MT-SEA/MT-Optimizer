@@ -35,4 +35,4 @@ Once downloaded, double-click the installer and follow the prompts to complete i
 
 ## Contact
 
-- WeChat: **exnesshk**
+- WeChat: **mtpsea**
